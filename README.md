@@ -1,4 +1,5 @@
 # hello-world
 Shlomis01 learning github
 
-פרויקט ללימוד גיטהאב  !!!			1
+line 1 -->  tutorial project ...
+line 2 -->  commit 2
